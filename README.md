@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FF9999&text=ꔷ̑◡ꔷ̑&fontAlign=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FF9999&text=ꔷ̑◡ꔷ̑&fontAlign=80)
 
 Hi there, I'm jihye
 
