@@ -7,11 +7,6 @@ Hi there, I'm jihye, junior full-stack developer
 - 👩🏻‍💻 I’m front-end core member in Google developer student club
 
 ---
-  <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasd3638%2Fhit-counter&count_bg=%23C66EC5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/asd3638)
-	
-  </div>
 <div>
     <img align=top src="https://github-readme-stats.vercel.app/api?username=asd3638&show_icons=true"/>
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=asd3638&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact"/>
