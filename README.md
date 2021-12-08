@@ -2,20 +2,8 @@
 
 Hi there, I'm jihye
 
-- 🌱 interesting on [Spring Boot](https://github.com/jogilsang/manual-devops) 
-
-<!-- if you want, SNS icon
-**SNS:**  
-
-<a href="https://www.instagram.com/jogilsang3">
-  <img align="left" alt="jogilsang | Instagram" width="20px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" />
-</a>   
-<a href="https://twitter.com/jogilsang">
-  <img align="left" alt="jogilsang | Twitter" width="20px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579583-yumminkysocialmedia02_83111.png" />
-</a>  
-<br />
-<br />
--->
+- 🌱 interesting on [Spring Boot](https://github.com/asd3638/jpashop) 
+- 🌱 I’m currently learning network and spring AOP
 
 ---
 
@@ -23,7 +11,7 @@ Hi there, I'm jihye
 [![asd3638's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asd3638&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/asd3638)
 
 <!-- 배경화면 트로피 설정 -->
-![trophy](https://github-profile-trophy.vercel.app/?username=asd3638)
+![trophy](https://github-profile-trophy.vercel.app/?username=asd3638&theme=flat&column=7)
 
 ---
 
