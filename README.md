@@ -16,7 +16,7 @@ Hi there, I'm jihye, junior full-stack developer
 ![trophy](https://github-profile-trophy.vercel.app/?username=asd3638&theme=flat&column=8)
   
   
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asd3638">
+<!-- <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asd3638"> -->
 
 
 
