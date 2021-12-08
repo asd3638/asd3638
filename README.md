@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FF9999&text=Hi!੧ᐛ੭&fontAlign=80)
 
-Hi there, I'm jihye junior full-stack developer
+Hi there, I'm jihye, junior full-stack developer
 
 - 🌱 I’m interested on [Spring](https://github.com/asd3638/jpashop) [react](https://github.com/asd3638/US)
 - 🌱 I’m currently learning cloud, networking and spring AOP
