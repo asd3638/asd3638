@@ -11,7 +11,7 @@ Hi there, I'm jihye, junior full-stack developer
 [![asd3638's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asd3638&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/asd3638)
 
 <!-- 배경화면 트로피 설정 -->
-![trophy](https://github-profile-trophy.vercel.app/?username=asd3638&theme=flat&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=asd3638&theme=flat&column=8)
 
 ---
 
