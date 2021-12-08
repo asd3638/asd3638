@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FF9999&text=Hi!੧ᐛ੭&fontAlign=80)
 
-Hi there, I'm jihye, junior full-stack developer
+Hi there, I'm junior full-stack developer
 
-- 🌱 I’m interested on [Spring](https://github.com/asd3638/jpashop) & [React](https://github.com/asd3638/US)
+- 🌱 I’m interested on [SpringBoot](https://github.com/asd3638/jpashop) & [React](https://github.com/asd3638/US)
 - 🌱 I’m currently learning cloud, networking and spring AOP
 - 👩🏻‍💻 I’m front-end core member in Google developer student club
 
@@ -20,30 +20,40 @@ Hi there, I'm jihye, junior full-stack developer
 
 
 
-<!-- <h3 align="center"><b>🐳 Contact & Share 🐳</b></h3>
+<h3 align="center"><b>🐳 Language 🐳</b></h3>
 </br>
 <p align="center">
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
-  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
-  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com) </p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Python-232F3E?style=flat-square&logo=python&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp </p>
 
 <br />
 
-<h3 align="center"><b>🐳 Contact & Share 🐳</b></h3>
+<h3 align="center"><b>🐋 Framework & Library 🐋</b></h3>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
+    <img src="https://img.shields.io/badge/Express.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/React.js-99004C?style=flat-square&logo=React&logoColor=white"/></a> &nbsp 
+    <img src="https://img.shields.io/badge/SpringBoot-00599C?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp 
+<br />
 
-<br /> -->
+<h3 align="center"><b>🐬 DB 🐬</b></h3>
+</br>
+<p align="center">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/ElasticSearch-68F6ED?style=flat-square&logo=Elasticsearch&logoColor=white"/></a> &nbsp
+<br />
+
+<h3 align="center"><b>🐟 CLOUD PLATFORM 🐟</b></h3>
+</br>
+<p align="center">
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Naver Cloud Platform-47A248?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/PaasTa-FF9933?style=flat-square&logo=iCloud&logoColor=white"/></a> &nbsp </p>
 
 <!-- **3. CLOUD:**
 
