@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FF9999&text=Hi!੧ᐛ੭&fontAlign=80)
 
-Hi there, I'm jihye
+Hi there, I'm jihye junior full-stack developer
 
-- 🌱 interesting on [Spring Boot](https://github.com/asd3638/jpashop) 
-- 🌱 I’m currently learning network and spring AOP
+- 🌱 I’m interested on [Spring](https://github.com/asd3638/jpashop) [react](https://github.com/asd3638/US)
+- 🌱 I’m currently learning cloud, networking and spring AOP
 
 ---
 
@@ -15,7 +15,7 @@ Hi there, I'm jihye
 
 ---
 
-I'm sharing my [study](https://jihyee.tistory.com/) on the subject below.
+I'm sharing my [study](https://jihyee.tistory.com/) on the subject below by tistory.
 
 **1. Languages**  
 
