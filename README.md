@@ -5,6 +5,7 @@ Hi there, I'm junior full-stack developer
 - 👩🏻‍💻 I’m interested on [SpringBoot](https://github.com/asd3638/jpashop) & [React](https://github.com/asd3638/US)
 - 👩🏻‍💻 I’m currently learning cloud, networking and spring AOP
 - 👩🏻‍💻 I’m front-end core member in Google developer student club
+- ✍🏻 I'm recording what i learned [jihyee(tistory)](https://jihyee.tistory.com/)
 
 ---
 <div>
