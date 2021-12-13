@@ -39,6 +39,7 @@ Hi there, I'm junior full-stack developer
 <p align="center">
     <img src="https://img.shields.io/badge/Express.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/React.js-99004C?style=flat-square&logo=React&logoColor=white"/></a> &nbsp 
+    <img src="https://img.shields.io/badge/Vue.js-99004C?style=flat-square&logo=vue.js&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/SpringBoot-00599C?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/JPA-00599C?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp 
 <br />
