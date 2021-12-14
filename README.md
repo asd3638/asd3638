@@ -11,7 +11,7 @@ Hi there, I'm junior full-stack developer
 ---
 <div>
     <img align=top src="https://github-readme-stats.vercel.app/api?username=asd3638&show_icons=true&theme=dracula"/>
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=asd3638&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=dracula"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=asd3638&show_icons=true&title_color=004386&icon_color=004386&layout=compact&theme=dracula"/>
 </div>
 
 <!-- 배경화면 트로피 설정 -->
