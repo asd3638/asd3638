@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FF9999&text=Hi!!੧ᐛ੭&fontAlign=80)
 
-Hi there, I'm junior full-stack developer
+Hi there, I'm junior full-stack developer ٩( *˙0˙*)۶
 
 - 👩🏻‍💻 I’m interested on [SpringBoot](https://github.com/asd3638/jpashop) & [React](https://github.com/asd3638/US)
 - 👩🏻‍💻 I’m currently learning cloud, networking, Algorithm and spring AOP
