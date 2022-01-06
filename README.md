@@ -9,10 +9,6 @@ Hi there, I'm junior full-stack developer ٩( *˙0˙*)۶
 - ✍🏻 I'm recording what i learned [jihyee(tistory)](https://jihyee.tistory.com/)
 
 ---
-<div>
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=asd3638&show_icons=true&theme=dracula"/>
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=asd3638&show_icons=true&title_color=004386&icon_color=004386&layout=compact&theme=dracula"/>
-</div>
 
 <h3 align="center"><b>🐳 Language 🐳</b></h3>
 </br>
@@ -56,7 +52,9 @@ Hi there, I'm junior full-stack developer ٩( *˙0˙*)۶
   <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=asd3638&theme=warm"/>
   <img src="http://mazandi.herokuapp.com/api?handle=asd3638&theme=warm"/>
 </p>
-
+<div align=center>
+    <img align=center src="https://github-readme-stats.vercel.app/api?username=asd3638&show_icons=true&theme=dracula"/>
+</div>
 <!-- **3. CLOUD:**
 
 <code><img alt = "3.3 AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"> <a href="https://github.com/jogilsang/devops/tree/master/1.aws">AWS</a></code>
