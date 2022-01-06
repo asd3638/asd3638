@@ -13,11 +13,6 @@ Hi there, I'm junior full-stack developer ٩( *˙0˙*)۶
     <img align=top src="https://github-readme-stats.vercel.app/api?username=asd3638&show_icons=true&theme=dracula"/>
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=asd3638&show_icons=true&title_color=004386&icon_color=004386&layout=compact&theme=dracula"/>
 </div>
-  
-<img align='top' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asd3638">
-<br/>
-
-
 
 <h3 align="center"><b>🐳 Language 🐳</b></h3>
 </br>
@@ -54,7 +49,13 @@ Hi there, I'm junior full-stack developer ٩( *˙0˙*)۶
 <p align="center">
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/Naver Cloud Platform-47A248?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/PaasTa-FF9933?style=flat-square&logo=iCloud&logoColor=white"/></a> &nbsp </p>
+    <img src="https://img.shields.io/badge/PaasTa-FF9933?style=flat-square&logo=iCloud&logoColor=white"/></a> &nbsp 
+</p>
+    
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=asd3638&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=asd3638&theme=warm"/>
+</p>
 
 <!-- **3. CLOUD:**
 
