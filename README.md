@@ -13,10 +13,6 @@ Hi there, I'm junior full-stack developer ٩( *˙0˙*)۶
     <img align=top src="https://github-readme-stats.vercel.app/api?username=asd3638&show_icons=true&theme=dracula"/>
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=asd3638&show_icons=true&title_color=004386&icon_color=004386&layout=compact&theme=dracula"/>
 </div>
-
-<!-- 배경화면 트로피 설정 -->
-![trophy](https://github-profile-trophy.vercel.app/?username=asd3638&theme=dracula&column=8)
-  
   
 <img align='top' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asd3638">
 <br/>
