@@ -31,6 +31,7 @@ Hi there, I'm junior full-stack developer ٩( *˙0˙*)۶
     <img src="https://img.shields.io/badge/SpringBoot-00599C?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/JPA-00599C?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp 
 <br />
+<br />
 
 <h3 align="center"><b>🐬 DB 🐬</b></h3>
 </br>
@@ -38,6 +39,7 @@ Hi there, I'm junior full-stack developer ٩( *˙0˙*)۶
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/ElasticSearch-68F6ED?style=flat-square&logo=Elasticsearch&logoColor=white"/></a> &nbsp
+<br />
 <br />
 
 <h3 align="center"><b>🐟 CLOUD PLATFORM 🐟</b></h3>
@@ -47,6 +49,7 @@ Hi there, I'm junior full-stack developer ٩( *˙0˙*)۶
     <img src="https://img.shields.io/badge/Naver Cloud Platform-47A248?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/PaasTa-FF9933?style=flat-square&logo=iCloud&logoColor=white"/></a> &nbsp 
 </p>
+<br />
     
 <p align="center">
   <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=asd3638&theme=warm"/>
