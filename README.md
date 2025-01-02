@@ -4,7 +4,7 @@ Hi there, I'm junior full-stack developer ٩( *˙0˙*)۶
 
 - 👩🏻‍💻 I’m interested on [SpringBoot](https://github.com/asd3638/jpashop) & [React](https://github.com/asd3638/US)
 - 👩🏻‍💻 I’m currently learning cloud, networking, Algorithm and spring AOP
-- 👩🏻‍💻 I’m front-end core member in Google developer student club [GDSC]([https://dsc-sookmyung.tistory.com/](https://dsc-sookmyung.tistory.com/category/Team%20Project%20%282021-2022%29/%EC%91%A5%EC%91%A5%EC%9D%B4)])
+- 👩🏻‍💻 I’m front-end core member in Google developer student club [GDSC](https://dsc-sookmyung.tistory.com/category/Team%20Project%20%282021-2022%29/%EC%91%A5%EC%91%A5%EC%9D%B4)
 - 👩🏻‍💻 I’m back-end developer in SK Lookie [MOA-MOA](https://www.moa-moa.kr)
 - ✍🏻 I'm recording what i learned [jihyee(tistory)](https://jihyee.tistory.com/)
 
