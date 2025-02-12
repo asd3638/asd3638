@@ -50,11 +50,10 @@ Hi there, I'm junior full-stack developer ٩( *˙0˙*)۶
     <img src="https://img.shields.io/badge/PaasTa-FF9933?style=flat-square&logo=iCloud&logoColor=white"/></a> &nbsp 
 </p>
 <br />
-    
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=asd3638&theme=warm"/>
-  <img src="http://mazandi.herokuapp.com/api?handle=asd3638&theme=warm"/>
-</p>
+<div align=center>
+    <img align=center src="https://leetcard.jacoblin.cool/asd3638?theme=unicorn&extension=activity&show_icons=true&theme=unicorn&extension=activity"/>
+</div>
+<br />
 <div align=center>
     <img align=center src="https://github-readme-stats.vercel.app/api?username=asd3638&show_icons=true&theme=dracula"/>
 </div>
