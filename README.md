@@ -1,6 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FF9999&text=Hi!੧ᐛ੭&fontAlign=80)
+<!-- 배경 이미지 -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/28440d83-d51a-483f-9532-654ee143d154" width="100%">
+</p>
 
-🚀 Welcome to My GitHub! 👋
+<!-- 타이핑 애니메이션 (배경 아래) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00AEEF&width=600&lines=👋+Welcome+To+My+GITHUB!">
+</p>
+
+![animated_wave_text_large](https://github.com/user-attachments/assets/63c8f5d7-b6d8-410c-9974-e769b76dc76e)
+![animated_wave_text_largest](https://github.com/user-attachments/assets/5d601cef-bd54-4409-bc32-128c50ca2f1f)
+![animated_wave_text_large](https://github.com/user-attachments/assets/d00904e8-abfb-4f8c-9d67-2cc9d322cfbb)
+
+![animated_wave_text_natural](https://github.com/user-attachments/assets/599e0d2f-1a53-499d-a0d2-77169aa930be)
+
+![animated_wave_text_large_natural](https://github.com/user-attachments/assets/c76cfb5c-ec92-4b8b-895b-ab7e73e8d03f)
+
+![animated_wave_text_perfect](https://github.com/user-attachments/assets/823f09b5-0d2a-47f8-9616-4cd838dad07e)
+
 Hi there! I'm a Junior Full-Stack Developer passionate about building scalable and user-friendly web applications.
 I specialize in Spring Boot & React and have experience in cloud infrastructure, networking, and system architecture.
 
