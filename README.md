@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FF9999&text=Hi!੧ᐛ੭&fontAlign=80)
 
-Hi there, I'm junior full-stack developer ٩( *˙0˙*)۶
+🚀 Welcome to My GitHub! 👋
+Hi there! I'm a Junior Full-Stack Developer passionate about building scalable and user-friendly web applications.
+I specialize in Spring Boot & React and have experience in cloud infrastructure, networking, and system architecture.
+
+💡 Constantly Learning & Growing!
+🎯 Currently exploring Cloud, Networking, Algorithm Optimization, and Spring AOP.
+📌 Open to collaboration on exciting projects & innovative solutions.
 
 - 👩🏻‍💻 I’m interested on [SpringBoot](https://github.com/asd3638/jpashop) & [React](https://github.com/asd3638/US)
 - 👩🏻‍💻 I’m currently learning cloud, networking, Algorithm and spring AOP
