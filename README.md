@@ -54,7 +54,5 @@ I thrive on **continuous learning** and staying ahead in the ever-evolving tech 
 
 ## 📩 **Let’s Connect!**  
 📧 **Email:** [jihye.kim.dev@gmail.com](mailto:jihye.kim.dev@gmail.com)  
-🔗 **GitHub:** [GitHub Profile](https://github.com/asd3638)  
-📝 **Tistory Blog:** [jihyee.tistory.com](https://jihyee.tistory.com/)  
 
 ---
