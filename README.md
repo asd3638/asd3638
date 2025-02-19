@@ -1,29 +1,22 @@
-<!-- 배경 이미지 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/28440d83-d51a-483f-9532-654ee143d154" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&size=40&pause=1000&color=E0FFFF&center=true&vCenter=true&width=600&height=100&lines=🚀+Welcome+to+My+GitHub!;🍀+Full-Stack+Developer;🐋+Oracle+DBA">
 </p>
 
-<!-- 타이핑 애니메이션 (배경 아래) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00AEEF&width=600&lines=👋+Welcome+To+My+GITHUB!">
-</p>
 
-![animated_wave_text_large](https://github.com/user-attachments/assets/63c8f5d7-b6d8-410c-9974-e769b76dc76e)
-![animated_wave_text_largest](https://github.com/user-attachments/assets/5d601cef-bd54-4409-bc32-128c50ca2f1f)
-![animated_wave_text_large](https://github.com/user-attachments/assets/d00904e8-abfb-4f8c-9d67-2cc9d322cfbb)
-
-![animated_wave_text_natural](https://github.com/user-attachments/assets/599e0d2f-1a53-499d-a0d2-77169aa930be)
-
-![animated_wave_text_large_natural](https://github.com/user-attachments/assets/c76cfb5c-ec92-4b8b-895b-ab7e73e8d03f)
-
-![animated_wave_text_perfect](https://github.com/user-attachments/assets/823f09b5-0d2a-47f8-9616-4cd838dad07e)
-
+🚀 Welcome to My GitHub! 👋
 Hi there! I'm a Junior Full-Stack Developer passionate about building scalable and user-friendly web applications.
 I specialize in Spring Boot & React and have experience in cloud infrastructure, networking, and system architecture.
 
 💡 Constantly Learning & Growing!
 🎯 Currently exploring Cloud, Networking, Algorithm Optimization, and Spring AOP.
 📌 Open to collaboration on exciting projects & innovative solutions.
+
+💻 Tech Stack
+🚀 Core Skills: Java Spring Boot React.js Vue.js Node.js
+📂 Database: MySQL MongoDB Elasticsearch
+☁️ Cloud & DevOps: AWS Naver Cloud PaasTa
+🔧 Frameworks & Tools: Express.js JPA Docker Git Slack
+
 
 - 👩🏻‍💻 I’m interested on [SpringBoot](https://github.com/asd3638/jpashop) & [React](https://github.com/asd3638/US)
 - 👩🏻‍💻 I’m currently learning cloud, networking, Algorithm and spring AOP
@@ -33,61 +26,6 @@ I specialize in Spring Boot & React and have experience in cloud infrastructure,
 
 ---
 
-<h3 align="center"><b>🐳 Language 🐳</b></h3>
-</br>
-<p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/Python-232F3E?style=flat-square&logo=python&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp </p>
-
-<br />
-
-<h3 align="center"><b>🐋 Framework & Library 🐋</b></h3>
-</br>
-<p align="center">
-    <img src="https://img.shields.io/badge/Express.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/React.js-99004C?style=flat-square&logo=React&logoColor=white"/></a> &nbsp 
-    <img src="https://img.shields.io/badge/Vue.js-99004C?style=flat-square&logo=vue.js&logoColor=white"/></a> &nbsp 
-    <img src="https://img.shields.io/badge/SpringBoot-00599C?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp 
-    <img src="https://img.shields.io/badge/JPA-00599C?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp 
-<br />
-<br />
-
-<h3 align="center"><b>🐬 DB 🐬</b></h3>
-</br>
-<p align="center">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/ElasticSearch-68F6ED?style=flat-square&logo=Elasticsearch&logoColor=white"/></a> &nbsp
-<br />
-<br />
-
-<h3 align="center"><b>🐟 CLOUD PLATFORM 🐟</b></h3>
-</br>
-<p align="center">
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/Naver Cloud Platform-47A248?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/PaasTa-FF9933?style=flat-square&logo=iCloud&logoColor=white"/></a> &nbsp 
-</p>
-<br />
-<div align=center>
-    <img align=center src="https://leetcard.jacoblin.cool/asd3638?theme=unicorn&extension=activity&show_icons=true&theme=unicorn&extension=activity"/>
-</div>
-<br />
-<div align=center>
-    <img align=center src="https://github-readme-stats.vercel.app/api?username=asd3638&show_icons=true&theme=dracula"/>
-</div>
-<!-- **3. CLOUD:**
-
-<code><img alt = "3.3 AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"> <a href="https://github.com/jogilsang/devops/tree/master/1.aws">AWS</a></code>
-<code><img alt = "3.4 Linux" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png"> <a href="https://github.com/jogilsang/devops/tree/master/4.linux">Linux</a></code>
-<code><img alt = "3.5 Jenkins" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130515.png"> <a href="https://github.com/jogilsang/manual-devops/tree/master/3.jenkins">Jenkins</a></code> -->
-<!-- <code><img alt = "3.5 Cisco" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/cisco_logo_icon_168414.png"> <a href="https://github.com/jogilsang/network-packetTracer">Cisco</a></code> -->
-<!-- <code><img alt = "3.3 AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"> <a href="https://github.com/jogilsang/manual-devops/tree/master/1.aws">AWS</a></code>
-<code><img alt = "3.4 Ubuntu" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png"> <a href="https://github.com/jogilsang/manual-devops/tree/master/4.ubuntu">Ubuntu</a></code> -->
 
 
 
