@@ -1,76 +1,72 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Darumadrop+One&size=40&pause=1000&color=E0FFFF&center=true&vCenter=true&width=600&height=100&lines=🚀+Welcome+to+My+GitHub!;🍀+Full-Stack+Developer;🐋+Oracle+DBA">
 </p>
+# 🚀 Hi, I'm a Passionate Full-Stack Developer! 👋  
 
-
-🚀 Welcome to My GitHub! 👋
-Hi there! I'm a Junior Full-Stack Developer passionate about building scalable and user-friendly web applications.
-I specialize in Spring Boot & React and have experience in cloud infrastructure, networking, and system architecture.
-
-💡 Constantly Learning & Growing!
-🎯 Currently exploring Cloud, Networking, Algorithm Optimization, and Spring AOP.
-📌 Open to collaboration on exciting projects & innovative solutions.
-
-💻 Tech Stack
-🚀 Core Skills: Java Spring Boot React.js Vue.js Node.js
-📂 Database: MySQL MongoDB Elasticsearch
-☁️ Cloud & DevOps: AWS Naver Cloud PaasTa
-🔧 Frameworks & Tools: Express.js JPA Docker Git Slack
-
-
-- 👩🏻‍💻 I’m interested on [SpringBoot](https://github.com/asd3638/jpashop) & [React](https://github.com/asd3638/US)
-- 👩🏻‍💻 I’m currently learning cloud, networking, Algorithm and spring AOP
-- 👩🏻‍💻 I’m front-end core member in Google developer student club [GDSC](https://dsc-sookmyung.tistory.com/category/Team%20Project%20%282021-2022%29/%EC%91%A5%EC%91%A5%EC%9D%B4)
-- 👩🏻‍💻 I’m back-end developer in SK Lookie [MOA-MOA](https://www.moa-moa.kr)
-- ✍🏻 I'm recording what i learned [jihyee(tistory)](https://jihyee.tistory.com/)
+I’m a **highly driven Full-Stack Developer** who specializes in building **scalable, high-performance web applications.**  
+With expertise in **Spring Boot & React**, I craft **seamless, user-centric solutions** while ensuring **efficient system architecture and data management.**  
 
 ---
 
+## 💡 **Always Learning & Innovating!**  
+I thrive on **continuous learning** and staying ahead in the ever-evolving tech landscape. Currently, I’m exploring:  
+✅ **Advanced Algorithm Optimization** 🚀  
+✅ **Spring AOP & Scalable Microservices Architecture** 🔧  
 
+💡 **If you have an exciting challenge, I’m ready to solve it!**  
 
+---
 
-<br />
+## 💻 **My Tech Arsenal** ⚡  
 
-<!-- **4. DB:**  
+### 🚀 **Languages & Frameworks**  
+<p align="center">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
-<code><img alt = "4.1 RDBMS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_db_icon_130469.png">RDBMS</code>
-<code><img alt = "4.2 Realm" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png">MongoDB</code> 
-<code><img alt = "4.1 MS-SQL" height="20" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png">MS-SQL</code>
+### 📂 **Database**
+<p align="center">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+</p>
 
-<br /> -->
+### 🔧 **Frameworks & Tools**
+<p align="center">
+    <img src="https://img.shields.io/badge/JPA-00599C?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+</p>
 
-<!-- **5. Collaboration and Tools:**  
+---
 
-<code><img alt = "5.3 Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png">Slack</code> -->
+## 🚀 **My Developer Journey**  
+✔ **Google Developer Student Club - Frontend Core Member**  
+🔹 Spearheaded front-end initiatives for [GDSC](https://dsc-sookmyung.tistory.com/category/Team%20Project%20%282021-2022%29/%EC%91%A5%EC%91%A5%EC%9D%B4), driving UX/UI excellence and performance optimization.  
 
-<!--
-1. Languages : 
-① Java 1.8 - 3  ② Kotlin - 1  ③ Node.js - 1
+✔ **SK Lookie - Back-end Developer**  
+🔹 Engineered scalable backend systems for **[MOA-MOA](https://www.moa-moa.kr)**, ensuring seamless data flow and API efficiency.  
 
-2. Framework & Platform : 
-① Firebase - 2  ② RxJava, RxKotlin - 2  ③ Ionic1 - 2
+✔ **Technical Blogging & Knowledge Sharing**  
+🔹 I document my learnings & insights on **[Tistory](https://jihyee.tistory.com/)** to empower other developers and continuously grow as an engineer.  
 
-3. Devops : 
-① Subversion - 3  ② GIT - 2 ③  AWS - 2  ⑤ Jenkins - 1
+---
 
-3. DB & OS : 
-① MSSQL - 2 ② Oracle - 2 ③ Realm  - 2 ④ Linux - 2 
+## 🎯 **Why Work With Me?**  
+✅ **Problem-Solver:** I thrive in tackling complex challenges with scalable solutions.  
+✅ **Fast Learner & Innovator:** I quickly adapt to new technologies and drive continuous improvement.  
+✅ **Passionate Collaborator:** I love working with teams to create **meaningful, impactful products.**  
 
-4. Collaboration : 
-① JIRA - 2 ② Confluence WIKI - 2 ③ Slack - 2 ④ adobe xd - 2
--->
+---
 
-<!--]
-**jogilsang/jogilsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📩 **Let’s Connect!**  
+📧 **Email:** [jihye.kim.dev@gmail.com](mailto:jihye.kim.dev@gmail.com)  
+🔗 **GitHub:** [GitHub Profile](https://github.com/asd3638)  
+📝 **Tistory Blog:** [jihyee.tistory.com](https://jihyee.tistory.com/)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
